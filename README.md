@@ -42,8 +42,6 @@ El 2022, fue el mejor año en que el supermercado tuvo un mejor su desempeño en
 
 ### 2. ¿Cuáles son los 7 productos que más ganancias mostraron durante todo el periodo?
 
-![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/4fa5a643-168a-480e-9002-89a61abeebb3)
-
 #### Conclusión
 
 ### 3. Si separamos las ventas totales por año y por regiones ¿Qué insight podemos obtener de nuestras ventas?
