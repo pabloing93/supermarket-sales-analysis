@@ -33,7 +33,38 @@ Indispensable para representar conclusiones, insights y hacer reportes de manera
 ## Insights 🚀
 
 ### 1. ¿Cuáles son las ventas totales por año? ¿Y qué año tuvo mejor desempeño?
+
+![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/f1aa64ba-5911-4799-8caf-7c815c69e01d)
+
+#### Conclusión
+El 2022, fue el mejor año en que el supermercado tuvo un mejor su desempeño en cuanto a las ganancias reales por ventas realizadas. Sin embargo, apreciamos un incremento en ganancias de ventas cada año transcurrido.
+
+
 ### 2. ¿Cuáles son los 7 productos que más ganancias mostraron durante todo el periodo?
-### 3. ¿Si separamos las ventas totales por año y por regiones ¿Qué insight podemos obtener de nuestras ventas?
+
+![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/4fa5a643-168a-480e-9002-89a61abeebb3)
+
+#### Conclusión
+
+### 3. Si separamos las ventas totales por año y por regiones ¿Qué insight podemos obtener de nuestras ventas?
+
+![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/c2f60ca8-a2c8-4430-b4e6-80ca6de4f168)
+
+#### Conclusión
+Como conclusión podemos observar que el Sureste de Brasil fué la región que mayores ganancias generó en los últimos 4 años. Seguida por las regiones del Noreste y Centro-Oeste.
+A su vez en dichas regiones notamos, paulatinamente, un incremento de las ganancias en los últimos 2 años.
+
 ### 4. ¿Cuál es el método de envío más utilizado por los clientes del Supermercado? ¿Es proporcional para B2B y B2C?
-### 5. ¿Cuáles son las ventas totales por trimestre en el estado de Sao Paulo? (Everardo)
+
+![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/146b85fa-393b-4499-80c0-2c0ba5e026d8)
+
+#### Conclusión
+El método de envío preferido por sus clientes (B2B|B2C) es el de "Entrega estándar".
+
+### 5. ¿Cuáles son las ventas totales por trimestre en el estado de Sao Paulo?
+
+![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/af760cf1-849e-4039-bb3e-260252db6575)
+
+#### Conclusión
+En el estado de São Paulo en el mes de Diciembre de los último 3 años, fue en donde más ganancias por ventas se obtuvieron. Sin embargo, durante los primeros trimestres, las ventas disminuyeron.
+
