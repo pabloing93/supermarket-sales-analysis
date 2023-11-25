@@ -1,4 +1,4 @@
-# Insights 🕵️‍♂️ de reportes de ventas para un supermercado 📈
+# Reportes de ventas para un supermercado 📈
 
 ## Escenario 📝
 Un cliente posee una cadena de supermercados en Brasil, nos contrata para realizar insights sobre sus reportes de ventas de los últimos 4 años.
@@ -28,7 +28,7 @@ Indispensable para representar conclusiones, insights y hacer reportes de manera
 
 ## Obtencion de datos 📁
 
-## AED 🧐 y Limpieza de los datos 🧹
+## AED 🕵️‍♂️ y Limpieza de los datos 🧹
 
 ## Insights 🚀
 
