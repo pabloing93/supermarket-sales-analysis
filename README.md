@@ -34,9 +34,6 @@ Indispensable para representar conclusiones, insights y hacer reportes de manera
 
 [KBD]: /Supermarket_Sales_Analysis.ipynb
 
-https://github.com/pabloing93/supermarket-sales-analysis/blob/master/Supermarket_Sales_Analysis.ipynb
-
-
 ## Insights 🚀
 
 ### 1. ¿Cuáles son las ventas totales por año? ¿Y qué año tuvo mejor desempeño?
