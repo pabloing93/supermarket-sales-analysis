@@ -43,11 +43,11 @@ El 2022, fue el mejor año en que el supermercado tuvo un mejor su desempeño en
 
 ### 2. ¿Cuáles son los 7 productos que más ganancias mostraron durante todo el periodo?
 
-![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/112f83a2-5d8a-4922-9110-3b3106faa3cc)
+![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/7eef8d9e-4efd-49bb-9a0f-f8fa3cd829af)
 
 #### Conclusión
 Los datos indican que los 4 productos que generan mayor ganancia son los del departamento de Electrónicos.
-Podemos notar tamquén que el departamente de productos de limpieza tiene 2 productos con buen margen de ganancia totalizando U$D 109k
+Podemos notar tamquén que el departamente de productos de limpieza tiene 2 productos con buen margen de ganancia totalizando U$D 87k
 durante el periodo analizado
 
 ### 3. Si separamos las ventas totales por año y por regiones ¿Qué insight podemos obtener de nuestras ventas?
