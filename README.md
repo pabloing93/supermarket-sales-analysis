@@ -34,7 +34,8 @@ Indispensable para representar conclusiones, insights y hacer reportes de manera
 
 ### 1. ¿Cuáles son las ventas totales por año? ¿Y qué año tuvo mejor desempeño?
 
-![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/f1aa64ba-5911-4799-8caf-7c815c69e01d)
+![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/ef59e4ce-d667-4691-847f-e8ea1dee3b12)
+
 
 #### Conclusión
 El 2022, fue el mejor año en que el supermercado tuvo un mejor su desempeño en cuanto a las ganancias reales por ventas realizadas. Sin embargo, apreciamos un incremento en ganancias de ventas cada año transcurrido.
