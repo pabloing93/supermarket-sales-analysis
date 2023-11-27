@@ -30,6 +30,13 @@ Indispensable para representar conclusiones, insights y hacer reportes de manera
 
 ## AED 🕵️‍♂️ y Limpieza de los datos 🧹
 
+![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/d84d8817-6138-4612-a22f-90aa7ed7c625)
+
+![codeimage-snippet_27](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/d85c5196-7d65-4fe8-bb33-3cb85791c2de)
+
+![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/a85d5668-ed1b-4464-b798-818c74745860)
+
+
 ## Insights 🚀
 
 ### 1. ¿Cuáles son las ventas totales por año? ¿Y qué año tuvo mejor desempeño?
