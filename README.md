@@ -76,3 +76,11 @@ El método de envío preferido por sus clientes (B2B|B2C) es el de "Entrega est�
 #### Conclusión
 En el estado de São Paulo en el mes de Diciembre de los último 3 años, fue en donde más ganancias por ventas se obtuvieron. Sin embargo, durante los primeros trimestres, las ventas disminuyeron.
 
+### 6. Los productos más relacionados
+
+![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/f5a8b4c8-42e2-4845-beb1-43c8151930be)
+
+#### Conclusión
+
+Determinamos con un **nivel de confianza del 100%** que **todos aquellos que compraron Ambientador en spray y Bolsas de basura también adquirieron Lámparas LED**. 
+Por lo que recomendamos agrupar estos productos para mejorar la experiencia de compra y así generar más ganancias aprovechando la estrecha relación que sus clientes le otorgaron durante este último periodo.
