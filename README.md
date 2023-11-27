@@ -32,7 +32,7 @@ Indispensable para representar conclusiones, insights y hacer reportes de manera
 
 [<kbd> <br> Link al código <br> </kbd>][KBD]
 
-[KBD]: blob/master/Supermarket_Sales_Analysis.ipynb
+[KBD]: /Supermarket_Sales_Analysis.ipynb
 
 https://github.com/pabloing93/supermarket-sales-analysis/blob/master/Supermarket_Sales_Analysis.ipynb
 
