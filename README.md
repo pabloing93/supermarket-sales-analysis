@@ -1,6 +1,6 @@
 ![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/984eb94f-34c6-4ab2-9392-52e4c91ecdfa)
 
-# Reportes de ventas para un supermercado 📈
+# Insights de reportes de ventas para un supermercado 📈
 
 ## Escenario 📝
 Un cliente posee una cadena de supermercados en Brasil, nos contrata para realizar insights sobre sus reportes de ventas de los últimos 4 años.
@@ -32,36 +32,50 @@ Indispensable para representar conclusiones, insights y hacer reportes de manera
 
 ## AED 🕵️‍♂️ y Limpieza de los datos 🧹
 
+Primero limpiamos los datos
+Nos pusimos a investigar los datos, quitamos algunos duplicados, tratamos valores en blanco y nulos y cambiamos el tipo de datos de columnas para que todo encaje a la perfección. 
+¡Nos hemos vuelto unos cracks en la corrección de sus datos!
+
 [<kbd> <br> Link al código <br> </kbd>][KBD]
 
 [KBD]: /Supermarket_Sales_Analysis.ipynb
 
 ## Insights 🚀
 
-### ¿Cómo nos fué estos últimos 4 años y cuál fué el mejor año?
+## Ganancias
+¿Cómo nos fué estos últimos 4 años y cuál fué el mejor año?
+
+¡Increíble! ¡Descubrimos que pegaron un salto en los últimos 4 años! 
+El crecimiento fue constante, con un aumento ponderado del 55% en las ganancias netas desde el 2019 hasta el 2022 💸
+¡Un avance espectacular! Ni siquiera la pandemia fue capaz de detenerlos 🦠
 
 ![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/ef59e4ce-d667-4691-847f-e8ea1dee3b12)
 
+“¡Gracias! Pero, ¿Cómo podemos sacarle provecho a este dato?”
 
-#### Conclusión
-El 2022, fue el mejor año en que el supermercado tuvo un mejor su desempeño en cuanto a las ganancias reales por ventas realizadas. Sin embargo, apreciamos un incremento en ganancias de ventas cada año transcurrido.
+¡Fácil! Es el primer paso para establecer un punto de partida. Una vez que conocemos dónde estamos, podemos proyectar mejoras y superarnos. Pero no nos detengamos aquí... ¡Sigamos adelante!
+Vamos a desglosar las ganancias netas por regiones y descubrir quién se llevó la corona y quién podría necesitar un empujoncito extra.
 
 ### Si separamos las ventas totales por año y por regiones ¿Qué insight podemos obtener de nuestras ventas?
 
 ![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/c2f60ca8-a2c8-4430-b4e6-80ca6de4f168)
 
-#### Conclusión
-Como conclusión podemos observar que el Sureste de Brasil fué la región que mayores ganancias generó en los últimos 4 años. Seguida por las regiones del Noreste y Centro-Oeste.
-A su vez en dichas regiones notamos, paulatinamente, un incremento de las ganancias en los últimos 2 años.
+**Se ve que la región sureste es la ganadora** 👑 Quizás sea por la cantidad de habitantes, pero no podemos dejar atrás las otras regiones, especialmente la del Norte y la del Sur. 
+¡A darles un empujón! 💪
 
 ### Y hablando del sureste de Brasil, hablemos de la ciudad que más destacó, Sao Paulo.
 
 ![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/af760cf1-849e-4039-bb3e-260252db6575)
 
-#### Conclusión
-En la ciudad de São Paulo en el mes de Diciembre de los último 3 años, fue en donde más ganancias por ventas se obtuvieron. Sin embargo, durante los primeros trimestres, las ventas disminuyeron.
+¡Aquí viene la info jugosa! 🤤 Resulta que cada año, en los últimos tres meses, hacemos un mega hit con las ganancias netas. ¡En diciembre nos va muy bien! 📈
+Pero, aquí viene lo interesante: 
+El próximo trimestre, las ganancias netas disminuyen 📉 Pero no se preocupen, porque ya estamos al tanto de esto. 
+Así que, ¡manos a la obra para mejorar! 
 
-### Ya hablamos de ganancias... ¿pero cuáles fueron los mejores productos que nos dejaron esas ganancias?
+## PRODUCTOS
+Ya sabemos cuánto ganamos
+pero ¿Cuáles son los TOP productos detrás de nuestras ganancias?. 
+La respuesta a este misterio quizás nos ayude a descubrir las oportunidades de mejora ¡Vamos a investigar!
 
 ![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/7eef8d9e-4efd-49bb-9a0f-f8fa3cd829af)
 
@@ -79,10 +93,18 @@ El método de envío preferido por sus clientes (B2B|B2C) es el de "Entrega est�
 
 ###  Revisemos el comportamiento de sus clientes y agrupemos estrategicamente los productos.
 
+¡Y ahora, lo mejor de lo mejor! Descubrimos un comportamiento en los clientes:
+"Nos dimos cuenta de que todos los que compraron ambientadores en spray y bolsas de basura TAMBIÉN compraron lámparas LED". Esto lo sabemos con una confianza del 100%. 
+Además, las compras de productos de limpieza y bolsas de basura van de la mano el 80% de las veces. Hasta los clientes que compraron vestidos y papel higiénico no se resistieron y también se llevaron sus bolsas de basura.
+
 ![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/f5a8b4c8-42e2-4845-beb1-43c8151930be)
 
-#### Conclusión
-
-Determinamos con un **nivel de confianza del 100%** que **todos aquellos que compraron Ambientador en spray y Bolsas de basura también adquirieron Lámparas LED**. 
-Por lo que recomendamos agrupar estos productos para mejorar la experiencia de compra y así generar más ganancias aprovechando la estrecha relación que sus clientes le otorgaron durante este último periodo.
-Ésto podría impulsar las ventas de los productos de limpieza al mismo tiempo que mantenemos e incluso mejoramos las ventas de electrónicos.
+# Ideas de negocio 🧠
+1. Agrupemos productos de manera estratégica en su sitio web utilizando esta información.
+2. ¡Creemos kits o promociones emocionantes como "Transformá tu hogar" para subir las ventas de productos de limpieza!
+3. Sigamos analizando el comportamiento de nuestros queridos clientes, generando reglas de asociación y utilizando el marketing a nuestro favor.
+4. En nuestro sitio web de ventas, ¿Qué tal si les recordamos a nuestros clientes que, además de un ambientador en spray y bolsas de basura, también hay promociones en lámparas LED? ¡Utilicemos recomendaciones con pop-ups para que no se les escape!
+5. ¡Implementemos tecnología de machine learning para predecir y ajustar las ganancias de los primeros trimestres de cada año!
+6. Se acerca el calor en enero, ¡así que incorporemos productos acordes a la estación para impulsar las ventas de productos de vestimenta!
+7. Las regiones con menos ganancias netas suelen tener pocos habitantes y problemas de conexión. ¡Hagamos su día con una aplicación más liviana y rápida!
+8. **¡Atrévanse a ser el cambio que quieren ver en el mundo!**
