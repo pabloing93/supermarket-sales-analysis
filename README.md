@@ -1,3 +1,5 @@
+![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/984eb94f-34c6-4ab2-9392-52e4c91ecdfa)
+
 # Reportes de ventas para un supermercado 📈
 
 ## Escenario 📝
